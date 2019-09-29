@@ -6,6 +6,7 @@ summary: given a sequence of prime numbers less than 8000, and a number k,  find
 
 O(n^2) time
 O(n^2) space
+*/
 #include<bits/stdc++.h>
 
 typedef long long int lli;
