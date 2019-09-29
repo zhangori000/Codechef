@@ -1,4 +1,6 @@
 /* 
+CONTEST URL: https://www.codechef.com/SEPT19B?order=desc&sortBy=successful_submissions
+PROBLEM URL: https://www.codechef.com/SEPT19B/problems/CHEFINSQ
         after you sort, it is gaurenteed that the smallest k elements of the list contains the numbers that make up
         a "interesting subsequence"
         
